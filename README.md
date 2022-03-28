@@ -10,7 +10,7 @@ A video walkthrough has been recorded to demonstrate its functions.
 
 > Github Repository Link: [https://github.com/nevan-dsouza/ecommerce-backend](https://github.com/nevan-dsouza/ecommerce-backend)
 >
-> Video Link for Setup: []()
+> Video Link for Setup: [https://youtu.be/EV9-DRDsr18](https://youtu.be/EV9-DRDsr18)
 
 ## Table of Contents
 
@@ -30,23 +30,23 @@ There are a few things that must be done in order to run this software. To begin
 
 ## Example
 
-### Gifs of the Program Running
+### Screenshots of the Program Running
 
-![Gif of app running](./images/)
+![Categories](./images/categories.png)
 
-![Gif of app running](./images/)
+![Tags](./images/tags.png)
 
-![Gif of app running](./images/)
+![Products](./images/products.png)
 
 ### Video Demonstration
 
 #### Setting up
 
-
+https://youtu.be/EV9-DRDsr18
 
 #### Testing Routes
 
-
+https://youtu.be/B9nPTczF2rw
 
 ## License
 
